@@ -7,7 +7,7 @@
     "prestart": "rimraf dest",
     "start": "gulp"
   },
-  "author": "Hastech",
+  "author": "Tangerul",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.5",
