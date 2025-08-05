@@ -1,2 +1,19 @@
-# html-quick--start-pack
-This is a modern HTML starter pack powered by Gulp.js, built to streamline and automate your front-end workflow. It includes everything you need to get started with clean HTML structure, SCSS, live browser reloading, minification, and more.
+# HTML Quick Start Pack with Gulp (Yarn Version)
+
+This is a lightweight and modern front-end starter pack using HTML, SCSS, and Gulp.js, managed with Yarn. It automates common tasks like SCSS compilation, live-reloading, minification, and prepares your project for production – all with a simple command.
+
+✅ HTML boilerplate (index.html)
+
+✅ SCSS to CSS compilation
+
+✅ Live server with auto-reload
+
+✅ CSS and JS minification
+
+✅ Image optimization
+
+✅ Clean file structure
+
+✅ Gulp 4 ready
+
+
